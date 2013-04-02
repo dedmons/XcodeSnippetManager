@@ -1,4 +1,5 @@
-This script is used to manage Xcode code snippets. 
+This script is used to manage Xcode code snippets.
+
 Inspired by https://github.com/lukeredpath/xcodesnippets but
 I wanted to create a pure bash alternitave for fun.
 
